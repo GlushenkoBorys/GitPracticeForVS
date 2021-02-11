@@ -1,0 +1,6 @@
+C:\GitPracticeForVS\Git\Git\bin\Debug\Git.exe.config
+C:\GitPracticeForVS\Git\Git\bin\Debug\Git.exe
+C:\GitPracticeForVS\Git\Git\bin\Debug\Git.pdb
+C:\GitPracticeForVS\Git\Git\obj\Debug\Git.csprojAssemblyReference.cache
+C:\GitPracticeForVS\Git\Git\obj\Debug\Git.exe
+C:\GitPracticeForVS\Git\Git\obj\Debug\Git.pdb
